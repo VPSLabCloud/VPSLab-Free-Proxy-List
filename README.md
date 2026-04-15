@@ -4,7 +4,7 @@
 
 Welcome to **VPSLab Free Proxy List**, a repository dedicated to providing continuously updated lists of free proxy servers from around the world. Whether you need proxies for web scraping, bypassing geo-restrictions, or anonymous browsing, we've got you covered.
 
-**Last updated:** `2026-04-15 15:01 UTC` | **Total files:** 16
+**Last updated:** `2026-04-15 15:16 UTC` | **Total files:** 16
 
 ---
 
@@ -31,26 +31,26 @@ If you find this project helpful:
 
 ## 💡 Proxy File Index
 
-**Last updated:** `2026-04-15 15:01 UTC`
+**Last updated:** `2026-04-15 15:16 UTC`
 
 | File | Protocol | SSL | Anonymity | Count |
 |------|----------|-----|-----------|-------|
-| [📄 http_all.txt](./http_all.txt) | `http` | `all` | `all` | **491** |
+| [📄 http_all.txt](./http_all.txt) | `http` | `all` | `all` | **547** |
 | [📄 http_ssl.txt](./http_ssl.txt) | `http` | `yes` | `all` | **0** |
-| [📄 http_nossl.txt](./http_nossl.txt) | `http` | `no` | `all` | **495** |
-| [📄 http_elite.txt](./http_elite.txt) | `http` | `all` | `elite` | **176** |
-| [📄 http_anonymous.txt](./http_anonymous.txt) | `http` | `all` | `anonymous` | **41** |
-| [📄 http_transparent.txt](./http_transparent.txt) | `http` | `all` | `transparent` | **280** |
+| [📄 http_nossl.txt](./http_nossl.txt) | `http` | `no` | `all` | **543** |
+| [📄 http_elite.txt](./http_elite.txt) | `http` | `all` | `elite` | **188** |
+| [📄 http_anonymous.txt](./http_anonymous.txt) | `http` | `all` | `anonymous` | **44** |
+| [📄 http_transparent.txt](./http_transparent.txt) | `http` | `all` | `transparent` | **308** |
 | [📄 http_ssl_elite.txt](./http_ssl_elite.txt) | `http` | `yes` | `elite` | **0** |
 | [📄 http_ssl_anonymous.txt](./http_ssl_anonymous.txt) | `http` | `yes` | `anonymous` | **0** |
-| [📄 socks4_all.txt](./socks4_all.txt) | `socks4` | `all` | `all` | **282** |
-| [📄 socks5_all.txt](./socks5_all.txt) | `socks5` | `all` | `all` | **883** |
-| [📄 all_proxies.txt](./all_proxies.txt) | `all` | `all` | `all` | **1675** |
-| [📄 all_elite.txt](./all_elite.txt) | `all` | `all` | `elite` | **1351** |
-| [📄 all_anonymous.txt](./all_anonymous.txt) | `all` | `all` | `anonymous` | **42** |
-| [📄 all_transparent.txt](./all_transparent.txt) | `all` | `all` | `transparent` | **279** |
-| [📄 all_ssl.txt](./all_ssl.txt) | `all` | `yes` | `all` | **1176** |
-| [📄 all_ssl_elite.txt](./all_ssl_elite.txt) | `all` | `yes` | `elite` | **1177** |
+| [📄 socks4_all.txt](./socks4_all.txt) | `socks4` | `all` | `all` | **334** |
+| [📄 socks5_all.txt](./socks5_all.txt) | `socks5` | `all` | `all` | **854** |
+| [📄 all_proxies.txt](./all_proxies.txt) | `all` | `all` | `all` | **1737** |
+| [📄 all_elite.txt](./all_elite.txt) | `all` | `all` | `elite` | **1382** |
+| [📄 all_anonymous.txt](./all_anonymous.txt) | `all` | `all` | `anonymous` | **45** |
+| [📄 all_transparent.txt](./all_transparent.txt) | `all` | `all` | `transparent` | **314** |
+| [📄 all_ssl.txt](./all_ssl.txt) | `all` | `yes` | `all` | **1196** |
+| [📄 all_ssl_elite.txt](./all_ssl_elite.txt) | `all` | `yes` | `elite` | **1196** |
 
 ---
 
