@@ -1,4 +1,9 @@
 # [VPSLab](https://vpslab.cloud/) Free Proxy Lists
+
+<!-- hy-mt2-i18n:start -->
+**English** · [中文](./README_zh-CN.md) · [日本語](./README_ja.md) · [Español](./README_es.md)
+<!-- hy-mt2-i18n:end -->
+
 [![banner](https://iili.io/BBrV4Vt.png "Claim 20% OFF")](https://vpslab.cloud/)
 > **Free, fast, and frequently updated proxy lists** — HTTP, HTTPS, SOCKS4, and SOCKS5 proxies updated every 15 minutes.
 
