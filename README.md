@@ -4,7 +4,7 @@
 
 Welcome to **VPSLab Free Proxy List**, a repository dedicated to providing continuously updated lists of free proxy servers from around the world. Whether you need proxies for web scraping, bypassing geo-restrictions, or anonymous browsing, we've got you covered.
 
-**Last updated:** `2026-11-18 13:32 UTC` | **Total files:** 16
+**Last updated:** `2026-11-18 13:36 UTC` | **Total files:** 16
 
 ---
 
@@ -31,7 +31,7 @@ If you find this project helpful:
 
 ## 💡 Proxy File Index
 
-**Last updated:** `2026-11-18 13:32 UTC`
+**Last updated:** `2026-11-18 13:36 UTC`
 
 | File | Protocol | SSL | Anonymity | Count |
 |------|----------|-----|-----------|-------|
